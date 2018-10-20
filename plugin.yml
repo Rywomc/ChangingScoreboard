@@ -1,0 +1,8 @@
+name: ChangingScoreboard
+description: Scoreboard with a changing display name
+
+main: ChangingScoreboard\Main
+version: 1.0.0
+api: 3.0.0
+
+author: Twisted

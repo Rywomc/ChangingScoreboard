@@ -1,0 +1,25 @@
+---
+titles:
+  - "§l§eSERVER NAME"
+  - "§l§bSERVER NAME"
+  - "§l§aSERVER NAME"
+  - "§l§dSERVER NAME"
+lines:
+  - " Line 1 - To"
+  - " Line 2 - Remove"
+  - " Line 3 - A"
+  - " Line 4 - Line"
+  - " Line 5 - Remove"
+  - " Line 6 - From"
+  - " Line 7 - Config"
+  - " Line 8 - Max"
+  - " Line 9 - Of"
+  - " Line 10 - 15"
+  - " Line 11 - Lines"
+  - " Line 12 - Cannot"
+  - " Line 13 - Have"
+  - " Line 14 - Duplicate "
+  - " Line 15 - Lines"
+  - " Line 16 - Doesn't Show"
+update-interval: 20
+...
