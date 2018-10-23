@@ -4,4 +4,5 @@ branches:
 projects:
   ChangingScoreboard:
     path: ""
+    icon: "logo.png"
 ...
